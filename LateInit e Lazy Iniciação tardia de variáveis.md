@@ -49,3 +49,10 @@ Apesar de tardia, a inicialização por **lateinit** sempre irá ocorrer e, por 
 Já o **lazy**, usamos quando ***podemos ou não*** chamar uma variável durante seu fluxo em um programa. Principalmente se o objeto for "pesado", o que levaria tempo e consumo de recursos.
 
 Portanto, devemos pensar com antecedência, o que é melhor para cada situação específica: gastar algum tempo no início ou algum tempo durante a execução.
+
+### Sobre o Autor
+
+![photo](assets/FernandoSantis.format_png.resize_200x.png) 
+
+**Fernando Santis**
+[(19) 996 286 485](tel:(19)+996+286+485) | [ fpsantis@gmail.com](mailto:fpsantis@gmail.com) | [![img](assets/linkedin.png)/fernandosantis](http://us.linkedin.com/in/fernandosantis)
