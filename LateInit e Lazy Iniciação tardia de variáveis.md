@@ -55,4 +55,4 @@ Portanto, devemos pensar com antecedência, o que é melhor para cada situação
 ![photo](assets/FernandoSantis.format_png.resize_200x.png) 
 
 **Fernando Santis**
-[(19) 996 286 485](tel:(19)+996+286+485) | [ fpsantis@gmail.com](mailto:fpsantis@gmail.com) | [![img](assets/linkedin.png)/fernandosantis](http://us.linkedin.com/in/fernandosantis)
+[ fpsantis@gmail.com](mailto:fpsantis@gmail.com) | [![img](assets/linkedin.png)/fernandosantis](http://us.linkedin.com/in/fernandosantis)
