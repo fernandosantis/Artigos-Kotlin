@@ -22,7 +22,7 @@ A maioria das fontes profissionais são criadas baseadas em diversos conceitos e
 
 Um desses conceitos é a **altura-x**. Esse conceito representa a altura do caractere **x** ( *minúsculo* ) , que é uma referência para o tamanho e proporção da fonte. 
 
-![](assets/Group 6.png)
+![](assets/Group6.png)
 
 Nosso cérebro processa melhor quando visualiza ambientes organizados e proporcionais. 
 
@@ -38,7 +38,7 @@ Em um Sistema Espacial, os métodos de espaçamento usam grades de linha de base
 
 O Sistema Espacial mais harmonico é baseado em uma grade de linha de base quadrada de 8dp e servem tanto para celulares, tablets e desktops. No Android a indicação do próprio Material Design é  utilizarmos este sistema de medidas como diferença entre **paddings** e **margens** numa construção dos componentes.
 
-![](assets/Group 624575.png)
+![](assets/Group624575.png)
 
 ## Cards / Sliders / Lists
 
