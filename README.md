@@ -3,7 +3,8 @@
 
 Aqui estarei disponibilizando alguns artigos relacionados a Kotlin e Android:
 
-1) [LateInit e Lazy Iniciação tardia de variáveis](LateInit e Lazy Iniciação tardia de variáveis.md)
+1) LateInit e Lazy Iniciação tardia de variáveis
+2) Dicas para criar Layouts mais eficientes
 
 ### Sobre o Autor
 
