@@ -48,10 +48,10 @@ O simples fato de que o componente de carrossel está cortado nos limites da tel
 
 ## Cores
 
-Se colocarmos dois objetoc identicos em um Layout sendoo primeiro com a cor primária e o segundo com a cor secondária, a regra é: a cor prímária deve sempre chamar mais atenção que a cor secundária!
+Se colocarmos dois objetos identicos em um Layout sendo o primeiro com a cor primária e o segundo com a cor secondária, a regra é: a cor prímária deve sempre chamar mais atenção que a cor secundária!
 
-A não ser que precisamos utilizar cores especificas , o ideal é seguir o mestre. A Google, no site do Material Design já nos dá uma paleta de cores harmonicas com os padrões do Android , que os usuários já estão acostumados a ver, além de ferramentas para criar nosssas paletas: [Veja Aqui](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
+A não ser se precisarmos utilizar cores especificas, o ideal é seguir o mestre. A Google, no site do Material Design já nos dá uma paleta de cores harmônicas com os padrões do Android, que os usuários já estão acostumados a ver, além de ferramentas para criar nosssas próprias paletas: [Veja Aqui](https://material.io/design/color/the-color-system.html#color-usage-and-palettes)
 
-Como indicação de site com tendências de cores e paletas: o [ColorLovers](https://www.colourlovers.com/)
+Quando se fala em cores, indico site com tendências e paletas: o [ColorLovers](https://www.colourlovers.com/)
 
 Uma ferramenta muito interessante também é a [COPASO](https://www.colourlovers.com/copaso/ColorPaletteSoftware) que nos ajuda a criar harmonização e composição de cores e paletas com BEND, COMP, TRIAD, TETRAD e SPLIT
